@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align-last: center;
+}
+body{
+    background-color: black;
+    color:aliceblue;
+}
+h1{
+    text-align: center;
+    padding: 10 px;
+}
